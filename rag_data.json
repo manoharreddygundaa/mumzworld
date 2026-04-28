@@ -1,0 +1,40 @@
+{
+  "policies": [
+    {
+      "id": "refund_policy",
+      "keywords": ["refund", "money back", "return", "استرداد", "إرجاع", "رجوع"],
+      "title": "Refund Policy",
+      "content": "Customers are eligible for a full refund within 14 days of delivery if the item is unused and in original packaging. Refunds are processed within 5-7 business days to the original payment method. For digital products, refunds are not available once downloaded. If the item is defective, a full refund or replacement is offered within 30 days."
+    },
+    {
+      "id": "shipping_delay_policy",
+      "keywords": ["delay", "late", "shipping", "delivery", "where is", "order status", "track", "تأخير", "شحن", "توصيل", "طلب"],
+      "title": "Shipping Delay Policy",
+      "content": "Standard delivery takes 3-5 business days. Express delivery takes 1-2 business days. If your order is delayed beyond the estimated date, you are eligible for a delivery fee refund. Orders can be tracked via the website or mobile app using the order ID. In case of significant delays (>7 days), customers may request a full refund or free expedited reshipping."
+    },
+    {
+      "id": "exchange_policy",
+      "keywords": ["exchange", "swap", "replace", "size", "wrong", "استبدال", "تبديل", "مقاس"],
+      "title": "Exchange / Return Policy",
+      "content": "Exchanges are accepted within 21 days of delivery. The item must be unused, unwashed, and in original packaging with tags attached. Customers must initiate an exchange request via the support portal. Shipping costs for exchanges are covered by Mumzworld for the first exchange. Size exchanges are prioritized and processed within 3-5 business days."
+    },
+    {
+      "id": "payment_issue_policy",
+      "keywords": ["payment", "charge", "billed", "invoice", "credit card", "double charge", "دفع", "فاتورة", "رسوم"],
+      "title": "Payment Issue Handling",
+      "content": "If you were charged incorrectly or double-charged, please contact support with your order ID and transaction details. Incorrect charges are reversed within 3-5 business days. For failed payments where the order was not placed, the hold is released within 24-72 hours depending on your bank. We accept Visa, Mastercard, Apple Pay, and cash on delivery."
+    },
+    {
+      "id": "complaint_handling",
+      "keywords": ["angry", "upset", "terrible", "awful", "unacceptable", "worst", "horrible", "disappointed", "غاضب", "سيء", "مروع"],
+      "title": "Complaint Escalation Policy",
+      "content": "We take all complaints seriously. High-urgency complaints are escalated to a senior support agent within 1 hour. Customers expressing significant frustration are offered a goodwill gesture (store credit or discount on next order). All complaints are logged and reviewed for quality improvement. Resolution target: 90% of complaints resolved within 24 hours."
+    },
+    {
+      "id": "product_query_policy",
+      "keywords": ["product", "item", "available", "stock", "size", "color", "منتج", "متوفر", "مخزون"],
+      "title": "Product Availability & Queries",
+      "content": "Product availability is shown in real-time on the website. Out-of-stock items can be added to a wishlist for restock notifications. Product specifications, sizing guides, and reviews are available on each product page. For bulk orders or special requests, contact the sales team directly."
+    }
+  ]
+}
